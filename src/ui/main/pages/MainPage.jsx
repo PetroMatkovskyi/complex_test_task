@@ -1,12 +1,14 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Link } from 'react-router-dom';
 import { Box } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+
 import { MoviePage } from '../../moviePage';
 import { Movies } from '../../movies';
 import { SearchLine } from '../../shared/search';
 import { getTopOfMovies, getMovieInfo, removeActiveId } from '../store';
+
 import style from './MainPage.module.css';
 
 export const MainPage = () => {
