@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.posterContainer {
+  max-width: 300px;
+}
+
+.poster {
+  border-radius: 30px;
+}
+.year {
+  opacity: 0.8;
+  color: gray;
+  font-size: 2rem;
+  margin-left: 0.5rem;
+}
+
+.tagline {
+  font-style: italic;
+}
+.content {
+  margin-left: 2rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.additionInfo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    align-items: normal;
+  }
+}
