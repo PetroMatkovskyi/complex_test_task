@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/complex_test_task/static/css/main.0babdf08.chunk.css",
-    "main.js": "/complex_test_task/static/js/main.f0783aad.chunk.js",
-    "main.js.map": "/complex_test_task/static/js/main.f0783aad.chunk.js.map",
-    "runtime-main.js": "/complex_test_task/static/js/runtime-main.4e437e4e.js",
-    "runtime-main.js.map": "/complex_test_task/static/js/runtime-main.4e437e4e.js.map",
-    "static/js/2.90244111.chunk.js": "/complex_test_task/static/js/2.90244111.chunk.js",
-    "static/js/2.90244111.chunk.js.map": "/complex_test_task/static/js/2.90244111.chunk.js.map",
-    "index.html": "/complex_test_task/index.html",
-    "static/css/main.0babdf08.chunk.css.map": "/complex_test_task/static/css/main.0babdf08.chunk.css.map",
-    "static/js/2.90244111.chunk.js.LICENSE.txt": "/complex_test_task/static/js/2.90244111.chunk.js.LICENSE.txt"
+    "main.css": "/complex-film-searcher/static/css/main.95b847e2.css",
+    "main.js": "/complex-film-searcher/static/js/main.12cddd38.js",
+    "index.html": "/complex-film-searcher/index.html",
+    "main.95b847e2.css.map": "/complex-film-searcher/static/css/main.95b847e2.css.map",
+    "main.12cddd38.js.map": "/complex-film-searcher/static/js/main.12cddd38.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e437e4e.js",
-    "static/js/2.90244111.chunk.js",
-    "static/css/main.0babdf08.chunk.css",
-    "static/js/main.f0783aad.chunk.js"
+    "static/css/main.95b847e2.css",
+    "static/js/main.12cddd38.js"
   ]
 }
