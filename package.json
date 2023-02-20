@@ -1,7 +1,7 @@
 {
-  "name": "complex_test_task",
+  "name": "complex-film-searcher",
   "version": "0.1.0",
-  "homepage": "https://petromatkovskyi.github.io/complex_test_task",
+  "homepage": "https://petromatkovskyi.github.io/complex-film-searcher",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
